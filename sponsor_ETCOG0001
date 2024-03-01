@@ -1,0 +1,155 @@
+{
+	"sponsor": {
+		"name": "East Texas Council of Governments",
+		"description": "Workforce Solutions",
+		"id": "ETCOG0001",
+		"taxId": "",
+		"invoices": [
+		    {
+				"amount": 1220,
+				"balanceDue": 1220,
+				"balances": [
+					{
+						"amount": 444,
+						"balanceDue": 444,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "General Education Fee",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Justin",
+								"lastName": "Murphy"
+							}
+						]
+					},
+					{
+						"amount": 180,
+						"balanceDue": 180,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Justin",
+								"lastName": "Murphy"
+							}
+						]
+					},
+					{
+						"amount": 444,
+						"balanceDue": 444,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Parker",
+								"lastName": "Bridges"
+							}
+						]
+					},
+					{
+						"amount": 24,
+						"balanceDue": 24,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "General Education Fee ",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Parker",
+								"lastName": "Bridges"
+							}
+						]
+					},
+					{
+						"amount": 24,
+						"balanceDue": 24,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "A00381416",
+								"firstName": "Thomas",
+								"lastName": "Thompson"
+							}
+						]
+					},
+					{
+						"amount": 24,
+						"balanceDue": 24,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "General Education Fee ",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "A00381416",
+								"firstName": "Thomas",
+								"lastName": "Thompson"
+							}
+						]
+					},
+					{
+						"amount": 40,
+						"balanceDue": 40,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Spatafore",
+								"lastName": "Scott"
+							}
+						]
+					},
+					{
+						"amount": 40,
+						"balanceDue": 40,
+						"contractId": "",
+						"termCode": "202410",
+						"termDescription": "Fall 2023",
+						"itemCode": "CPAR",
+						"itemDescription": "General Education Fee",
+						"invoiceId": "S0046766",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Spatafore",
+								"lastName": "Scott"
+							}
+						]
+					}
+				],
+				"billDate": "23-FEB-24",
+				"dueDate": "24-MAR-24",
+				"id": "S0046766"
+			}
+					]
+	}
+}
