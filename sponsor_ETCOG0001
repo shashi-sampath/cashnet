@@ -32,7 +32,7 @@
 						"contractId": "",
 						"termCode": "202410",
 						"termDescription": "Fall 2023",
-						"itemCode": "CPAR",
+						"itemCode": "CPAR2",
 						"itemDescription": "In-District Tuition",
 						"invoiceId": "S0046766",
 						"students": [
@@ -66,7 +66,7 @@
 						"contractId": "",
 						"termCode": "202410",
 						"termDescription": "Fall 2023",
-						"itemCode": "CPAR",
+						"itemCode": "CPAR2",
 						"itemDescription": "General Education Fee ",
 						"invoiceId": "S0046766",
 						"students": [
@@ -100,7 +100,7 @@
 						"contractId": "",
 						"termCode": "202410",
 						"termDescription": "Fall 2023",
-						"itemCode": "CPAR",
+						"itemCode": "CPAR2",
 						"itemDescription": "General Education Fee ",
 						"invoiceId": "S0046766",
 						"students": [
@@ -134,7 +134,7 @@
 						"contractId": "",
 						"termCode": "202410",
 						"termDescription": "Fall 2023",
-						"itemCode": "CPAR",
+						"itemCode": "CPAR2",
 						"itemDescription": "General Education Fee",
 						"invoiceId": "S0046766",
 						"students": [
