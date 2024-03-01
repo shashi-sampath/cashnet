@@ -149,6 +149,151 @@
 				"billDate": "23-FEB-24",
 				"dueDate": "24-MAR-24",
 				"id": "S0046766"
+			},
+			 {
+				"amount": 1236,
+				"balanceDue": 1236,
+				"balances": [
+					{
+						"amount": 460,
+						"balanceDue": 460,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR",
+						"itemDescription": "General Education Fee",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Justin",
+								"lastName": "Murphy"
+							}
+						]
+					},
+					{
+						"amount": 180,
+						"balanceDue": 180,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR2",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "352689906",
+								"firstName": "Justin",
+								"lastName": "Murphy"
+							}
+						]
+					},
+					{
+						"amount": 444,
+						"balanceDue": 444,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "352687654",
+								"firstName": "Parker",
+								"lastName": "Bridges"
+							}
+						]
+					},
+					{
+						"amount": 24,
+						"balanceDue": 24,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR2",
+						"itemDescription": "General Education Fee ",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "352687654",
+								"firstName": "Parker",
+								"lastName": "Bridges"
+							}
+						]
+					},
+					{
+						"amount": 24,
+						"balanceDue": 24,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "000381416",
+								"firstName": "Thomas",
+								"lastName": "Thompson"
+							}
+						]
+					},
+					{
+						"amount": 24,
+						"balanceDue": 24,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR2",
+						"itemDescription": "General Education Fee ",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "000381416",
+								"firstName": "Thomas",
+								"lastName": "Thompson"
+							}
+						]
+					},
+					{
+						"amount": 40,
+						"balanceDue": 40,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR",
+						"itemDescription": "In-District Tuition",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "978645213",
+								"firstName": "Spatafore",
+								"lastName": "Scott"
+							}
+						]
+					},
+					{
+						"amount": 40,
+						"balanceDue": 40,
+						"contractId": "",
+						"termCode": "202420",
+						"termDescription": "Spring 2024",
+						"itemCode": "CPAR2",
+						"itemDescription": "General Education Fee",
+						"invoiceId": "S0052001",
+						"students": [
+							{
+								"id": "978645213",
+								"firstName": "Spatafore",
+								"lastName": "Scott"
+							}
+						]
+					}
+				],
+				"billDate": "23-FEB-24",
+				"dueDate": "24-MAR-24",
+				"id": "S0052001"
 			}
 					]
 	}
