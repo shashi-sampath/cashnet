@@ -15,5 +15,5 @@ spec:
             command:
             - /bin/sh
             - -c
-            - date; curl -i --header \"Content-Type: application/json\" --header \"X-ClientCode: shashi_train\" --request POST --data \"{\"Sponsor\":{\"SponsorId\":\"boeing\"}}\" http://localhost:50167/service/1.0/sponsorlookup 
+            - date; echo hi
           restartPolicy: OnFailure
