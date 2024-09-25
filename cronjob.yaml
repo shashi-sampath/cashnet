@@ -16,5 +16,5 @@ spec:
             - /bin/sh
             - -c
             - | 
-              curl -H "Content-Type: application/json" -H "X-ClientCode: shashi_train" --request POST --data '{"Sponsor":{"SponsorId":"boeing"}}' http://localhost:50167/service/1.0/sponsorlookup 
+              curl -H "Content-Type: application/json" -H "X-ClientCode: shashi_train" --request POST --data '{"Sponsor":{"SponsorId":"boeing"}}' http://bbcn-api-integrations/service/1.0/sponsorlookup 
           restartPolicy: OnFailure
