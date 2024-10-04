@@ -8855,7 +8855,7 @@
 				"balanceDue": 0,
 				"balances": [],
 				"billDate": "2023-04-26",
-				"dueDate": "20 23-05-13",
+				"dueDate": "2023-05-13",
 				"id": "ORG_BILLING_0000018172"
 			},
 			{
@@ -14245,7 +14245,7 @@
 						"termCode": "2238",
 						"credits": 100,
 						"startDate": "2023-09-26T00:00:00.000Z",
-						"endDate": "20 23-12-09T00:00:00.000Z",
+						"endDate": "2023-12-09T00:00:00.000Z",
 						"days": ""
 					},
 					{
