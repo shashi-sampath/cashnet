@@ -6551,7 +6551,7 @@
 					{
 						"amount": 1229,
 						"balanceDue": 0,
-						"contractId": "2 218-IIE",
+						"contractId": "2218-IIE",
 						"itemCode": "410000000060",
 						"itemDescription": "Health Insurance (TPC)",
 						"invoiceId": "ORG_BILLING_0000006415",
@@ -13314,7 +13314,7 @@
 						"description": "Leadership Lab",
 						"termCode": "2228",
 						"credits": 100,
-						"startDate": "20 22-09-26T00:00:00.000Z",
+						"startDate": "2022-09-26T00:00:00.000Z",
 						"endDate": "2022-12-10T00:00:00.000Z",
 						"days": ""
 					},
