@@ -1920,7 +1920,7 @@
 							}
 						],
 						"termCode": "2184",
-						"termDescription": "Spring 20 18"
+						"termDescription": "Spring 2018"
 					},
 					{
 						"amount": 388,
@@ -3478,7 +3478,7 @@
 						"contractId": "2184-IIE",
 						"itemCode": "410000000060",
 						"itemDescription": "Health Insurance (TPC)",
-						"invoiceId": "ORG_BILLING_000 0002310",
+						"invoiceId": "ORG_BILLING_0000002310",
 						"students": [
 							{
 								"id": "12179952",
@@ -4459,7 +4459,7 @@
 						"contractId": "2198-IIE",
 						"itemCode": "410000000060",
 						"itemDescription": "Health Insurance (TPC)",
-						"invoiceId": "ORG_BILLING_000000 3734",
+						"invoiceId": "ORG_BILLING_0000003734",
 						"students": [
 							{
 								"id": "12242598",
@@ -12059,7 +12059,7 @@
 						"description": "Big Data and Development",
 						"termCode": "2242",
 						"credits": 100,
-						"startDate": "2024-01 -03T00:00:00.000Z",
+						"startDate": "2024-01-03T00:00:00.000Z",
 						"endDate": "2024-03-09T00:00:00.000Z",
 						"days": ""
 					},
@@ -12164,7 +12164,7 @@
 						"description": "Data and Programming for Publi",
 						"termCode": "2214",
 						"credits": 100,
-						"startDate": "2021 -03-29T00:00:00.000Z",
+						"startDate": "2021-03-29T00:00:00.000Z",
 						"endDate": "2021-06-12T00:00:00.000Z",
 						"days": ""
 					},
@@ -13519,7 +13519,7 @@
 						"description": "Mktng Strat Sustainability Sim",
 						"termCode": "2232",
 						"credits": 100,
-						"startDate": "2023-01-03T00:00:00.00 0Z",
+						"startDate": "2023-01-03T00:00:00.000Z",
 						"endDate": "2023-03-11T00:00:00.000Z",
 						"days": ""
 					},
@@ -13624,7 +13624,7 @@
 						"description": "Analytical Politics II: Politi",
 						"termCode": "2222",
 						"credits": 100,
-						"startDate": "2022-01-10T00:00:00 .000Z",
+						"startDate": "2022-01-10T00:00:00.000Z",
 						"endDate": "2022-03-19T00:00:00.000Z",
 						"days": ""
 					},
@@ -14349,7 +14349,7 @@
 						"description": "Statistics for Data Analysis",
 						"termCode": "2242",
 						"credits": 100,
-						"startDate": "2024-0 1-03T00:00:00.000Z",
+						"startDate": "2024-01-03T00:00:00.000Z",
 						"endDate": "2024-03-09T00:00:00.000Z",
 						"days": ""
 					},
