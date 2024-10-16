@@ -3,6 +3,7 @@ kind: CronJob
 metadata:
   name: hello
 spec:
+  ttlSecondsAfterFinished: 30
   schedule: "* * * * *"
   jobTemplate:
     spec:
