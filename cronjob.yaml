@@ -2,11 +2,11 @@ apiVersion: batch/v1
 kind: CronJob
 metadata:
   name: hello
-spec:
-  ttlSecondsAfterFinished: 30
+spec:  
   schedule: "* * * * *"
   jobTemplate:
     spec:
+      ttlSecondsAfterFinished: 30
       template:
         spec:
           containers:
